@@ -1,0 +1,12 @@
+div{
+    height: 250px;
+    width: 250px;
+    margin: 20px;
+}
+.one{
+    background:linear-gradient(to top,red,green,orange);
+   
+}
+.two{
+    background: radial-gradient(red,green,orange);
+}
