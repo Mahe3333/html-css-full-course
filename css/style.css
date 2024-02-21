@@ -8,5 +8,5 @@ div{
    
 }
 .two{
-    background: radial-gradient(red,green,orange);
+    background: radial-gradient(red,green,rgb(34, 150, 71));
 }
